@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Inzynieria_i_Analiza_Danych_PW/Semestr3/ZPOiF/Proj1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2962962962962963" />
+        <entry key="..\:/Inzynieria_i_Analiza_Danych_PW/Semestr3/ZPOiF/Proj1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2962962962962963" />
+        <entry key="..\:/Inzynieria_i_Analiza_Danych_PW/Semestr3/ZPOiF/Proj1/app/src/main/res/drawable/ic_piwo.xml" value="0.2962962962962963" />
+        <entry key="..\:/Inzynieria_i_Analiza_Danych_PW/Semestr3/ZPOiF/Proj1/app/src/main/res/layout/activity_form.xml" value="0.2828125" />
+        <entry key="..\:/Inzynieria_i_Analiza_Danych_PW/Semestr3/ZPOiF/Proj1/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Inzynieria_i_Analiza_Danych_PW/Semestr3/ZPOiF/Proj1/app/src/main/res/layout/details_activity.xml" value="0.2828125" />
+        <entry key="..\:/Inzynieria_i_Analiza_Danych_PW/Semestr3/ZPOiF/Proj1/app/src/main/res/layout/filter_activity.xml" value="0.33" />
+        <entry key="..\:/Users/skdam/AndroidStudioProjects/almal01-zpoif_2021_gr6-9706a28347a0/app/src/main/res/layout/activity_form.xml" value="0.33" />
+        <entry key="..\:/Users/skdam/AndroidStudioProjects/almal01-zpoif_2021_gr6-9706a28347a0/app/src/main/res/layout/activity_maps.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/skdam/AndroidStudioProjects/almal01-zpoif_2021_gr6-9706a28347a0/app/src/main/res/layout/details_activity.xml" value="0.3875" />
+        <entry key="..\:/Users/skdam/AndroidStudioProjects/almal01-zpoif_2021_gr6-9706a28347a0/app/src/main/res/layout/my_location_demo.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/skdam/AndroidStudioProjects/almal01-zpoif_2021_gr6-9706a28347a0/app/src/main/res/menu/navigation_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_form.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_maps2.xml" value="0.14917925666511572" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.23333333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

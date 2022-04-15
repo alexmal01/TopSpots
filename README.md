@@ -1,0 +1,1 @@
+Link do prezentacji: https://youtu.be/qd5JLx1BE3o

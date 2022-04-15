@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">LokalizatorPiwa</string>
+    <string name="title_activity_maps">Lokalizator</string>
+    <string name="buttonOpenFilter">Dodaj Filtr</string>
+    <string name="buttonOpenForm">Dodaj Lokalizację</string>
+    <string name="buttonOpenMaps">Powrót do mapy</string>
+    <string name="addLocation">Dodaj Lokalizację</string>
+    <string name="xCoord">Współrzędna X</string>
+    <string name="yCoord">Współrzędna Y</string>
+    <string name="giveCoordinates">Podaj informacje</string>
+    <string name="confirmCoords">Zatwierdź</string>
+    <string name="yValue">Współrzędna y: \n(przedział od 20.85 do 21.15)</string>
+    <string name="giveYCoord">Podaj Współrzędną Y</string>
+    <string name="giveXCoord">Podaj Współrzędną X</string>
+    <string name="xValue">Współrzędna x: \n(przedział od 52.15 do 52.35)</string>
+    <string name="title_activity_test">test</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="saveData">Zapisz dane</string>
+    <string name="CoordWarning"></string>
+    <string name="titleInput">Podaj nazwę markera</string>
+    <string name="googleLink">Link do Google Maps:</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="descriptionText">Opis:</string>
+    <string name="typeText">Typ miejsca:</string>
+    <string name="radioPlener">Plener</string>
+    <string name="radioBar">Bar</string>
+    <string name="radioRestauracja">Restauracja</string>
+    <string name="radioInne">Inne</string>
+    <string name="nazwa">Nazwa:</string>
+    <string name="additional">Dodatkowe informacje:</string>
+    <string name="ocenaText">Ocena:</string>
+    <string name="editMarker">Edytuj marker</string>
+    <string name="deleteMarker">Usuń marker</string>
+    <string name="additionalText">Czy jest tanio/drogo? \nCzy jest daleko do najbliższego sklepu? \nInne zalety/wady? </string>
+    <string name="googleInput">Generuje się automatycznie z wprowadzonych współrzędnych.</string>
+
+
+
+
+
+</resources>
