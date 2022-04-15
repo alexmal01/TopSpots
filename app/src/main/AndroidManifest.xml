@@ -37,7 +37,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyARHeTRPkRC0td0TuH6821FRv3Vv7QVs38" />
+            android:value="{insert your API key here}" />
 
         <activity
             android:name=".FormActivity"
